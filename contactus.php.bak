@@ -1,0 +1,624 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Contact Us Tutoring | Platinum Education Australia | Sydney Tutoring</title>
+    <meta name="description" CONTENT="Platinum Education Australia is located in Hornsby, which is in the upper northshore area of Sydney. We are the specialists in chemistry tutoring, maths tutoring, physics tutoring, and biology" />
+<meta name="keywords" CONTENT="maths tutor, chemistry tutor, maths tutoring, chemistry tutoring, tutoring, tutors, maths, english, Sydney, local, Private, chemistry, biology, Coaching, Prices, physics, Home, Hsc, Excellence, home, IB, teaching, jobs, contact us, hornsby, north shore" />
+<meta name="robots" content="index, follow" />
+	<link rel="stylesheet" type="text/css" href="../style.css">
+    <style type="text/css">
+<!--
+.style1 {font-size: 14px}
+.style3 {	font-size: 18px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+.style2 {font-size: 12px}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style5 {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.style11 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 16px; }
+.style12 {font-size: 16px; font-family: Arial, Helvetica, sans-serif; }
+.style13 {font-size: 18px}
+.style15 {color: #0000CC}
+.style16 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; }
+.style17 {
+	font-size: 24px;
+	color: #CC0000;
+}
+.style20 {color: #0000CC;
+	font-weight: bold;
+}
+.style21 {font-size: 14;
+	font-weight: bold;
+	color: #0000FF;
+}
+.style25 {	font-size: 18px;
+	color: #FF3300;
+	font-style: italic;
+}
+.style26 {font-size: 18px; color: #FF3300; }
+.style29 {	font-size: 18px;
+	color: #FF3300;
+	text-decoration: none;
+}
+.style45 {	color: #FF0000;
+	font-size: 16px;
+}
+.style62 {	font-size: 24px;
+	font-weight: bold;
+}
+.style63 {font-size: 24px}
+.style65 {font-size: 16px}
+-->
+    </style>
+	
+	<script language="JavaScript" type="text/javascript">
+function preloadImages() { 
+  var d=document; if(d.images){ if(!d.MM_p) d.p=new Array();
+  var i,j=d.p.length,a=preloadImages.arguments; for(i=0; i<a.length; i++)
+  if (a[i].indexOf("#")!=0){ d.p[j]=new Image; d.p[j++].src=a[i];}}
+}
+function swapImgRestore() { //v3.0
+  var i,x,a=document.sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function swapImage() { //v3.0
+  var i,j=0,x,a=swapImage.arguments; document.sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=findObj(a[i]))!=null){document.sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+	
+    <script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32906721-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body leftmargin=0 topmargin=0 marginheight="0" marginwidth="0" bgcolor="#ffffff">
+
+<script language=JavaScript>
+<!--
+
+var message="";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+<tr valign="top">
+	<td width="50%" background="../images/bg.gif"><img src="../images/px1.gif" width="1" height="1" alt="" border="0"></td>
+	<td valign="bottom" background="../images/bg_left.gif"><img src="../images/bg_left.gif" alt="" width="17" height="16" border="0"></td>
+	<td>
+<table border="0" cellpadding="0" cellspacing="0" width="780" height="107">
+<tr valign="bottom">
+	<td width="800" background="../images/fon_top.gif">	  <table width="755" height="224" border="0" cellpadding="0" cellspacing="0" background="">
+        <tr valign="bottom">
+          <td width="226" rowspan="2"><img src="../images/platedimage6.gif" width="181" height="219"> </td>
+          <td height="163" colspan="6"><div align="center"><img src="../images/header.gif" width="489" height="163"></div></td>
+        </tr>
+        <tr valign="bottom">
+          <td width="70" height="57"><table border="0" cellpadding="0" cellspacing="0">
+              <tr valign="bottom">
+                <td><img src="../images/b_left.gif" width="9" height="30" alt="" border="0"></td>
+                <td background="../images/b_fon.gif"><p class="menu01"><a href="../index.html">HOME</a></p></td>
+                <td><img src="../images/b_right.gif" width="9" height="30" alt="" border="0"></td>
+              </tr>
+            </table>
+              <!-- but act -->
+              <!-- /but act --></td>
+          <td width="98"><table width="98" border="0" cellpadding="0" cellspacing="0">
+            <tr valign="bottom">
+              <td width="10"><img src="../images/b_left.gif" alt="" width="10" height="30" border="0"></td>
+              <td width="78" background="../images/b_fon.gif"><p class="menu01"><a href="../aboutus.html">ABOUT US</a></p></td>
+              <td width="10"><img src="../images/b_right.gif" alt="" width="10" height="30" border="0"></td>
+            </tr>
+          </table>            <!-- but -->          </td>
+          <td width="92"><table width="92" border="0" cellpadding="0" cellspacing="0">
+              <tr valign="bottom">
+                <td width="10"><img src="../images/b_left.gif" alt="" width="10" height="30" border="0"></td>
+                <td width="72" background="../images/b_fon.gif"><p class="menu01"><a href="../courses.html">COURSES</a></p></td>
+                <td width="10"><img src="../images/b_right.gif" alt="" width="10" height="30" border="0"></td>
+              </tr>
+            </table>
+              <!-- but -->
+              <!-- /but --></td>
+          <td width="137"><table width="137" border="0" cellpadding="0" cellspacing="0">
+            <tr valign="bottom">
+              <td width="10"><img src="../images/b_left_a.gif" alt="" width="10" height="37" border="0"></td>
+              <td width="117" background="../images/b_fon_a.gif"><p class="menu01"><a href="../contactus.php" class="style1"> CONTACT US </a></p></td>
+              <td width="10"><img src="../images/b_right_a.gif" alt="" width="10" height="37" border="0"></td>
+            </tr>
+          </table>
+            <!-- but -->
+            <!-- /but --></td>
+          <td width="108"><table width="107" border="0" cellpadding="0" cellspacing="0">
+              <tr valign="bottom">
+                <td width="10"> <img src="../images/b_left.gif" alt="" width="10" height="30" border="0"></td>
+                <td width="87" background="../images/b_fon.gif"><p class="menu01"><a href="../university.html"> UNIVERSITY</a></p></td>
+                <td width="99"><img src="../images/b_right.gif" alt="" width="10" height="30" border="0"></td>
+              </tr>
+          </table></td>
+          <td width="108"><table width="107" border="0" cellpadding="0" cellspacing="0">
+            <tr valign="bottom">
+              <td width="10"><img src="../images/b_left.gif" alt="b_left" width="10" height="30" border="0"></td>
+              <td width="87" background="../images/b_fon.gif"><p class="menu01"><a href="../invigilator.html"> INVIGILATOR</a></p></td>
+              <td width="99"><img src="../images/b_right.gif" alt="b_right" width="10" height="30" border="0"></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="780" height="1084">
+<tr valign="top">
+	<td bgcolor="#D0E0ED">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	            <td bgcolor="#076BA7"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><p>&nbsp;</p>
+                      <p align="center"><span class="style3">&quot;Experienced<br>
+and<br>
+Dedicated&quot;</span></p>
+                      <p>&nbsp;</p></td>
+                    </tr>
+                  </table>
+                  
+                </td>
+</tr>
+</table>
+<div align="center"></div>
+<div align="center"></div>
+<nobr></nobr>
+<div align="center">
+<div align="center"><br>
+    <p align="left" class="style16"><span class="style63"><a href="../umat.html" class="style63" style="text-decoration:none">UMAT Prep</a> </p>
+  <div align="left">
+      <p><strong><a href="../umat.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a></strong><a href="../umat.html" class="unnamed1 style65"><span class="style65"> Logical<strong><br>
+      </strong></span><img src="images/spacer.gif" alt="sp" width="19" height="18" border="0"><span class="style65">Reasoning</span></a></p>
+    <p><a href="../umat.html" class="unnamed1 style65"><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"> </strong><span class="style65">Problem<strong><br>
+      </strong></span><img src="images/spacer.gif" alt="sp" width="19" height="18" border="0"><span class="style65">Solving</span></a></p>
+    <p><a href="../umat.html" class="unnamed1 style65"><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"> </strong>Understanding<img src="images/spacer.gif" alt="sp" width="19" height="18" border="0">People</a></p>
+    <p><a href="../umat.html" class="unnamed1 style65"><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></strong> Non-verbal<br>
+            <img src="images/spacer.gif" alt="sp" width="19" height="18" border="0">Reasoning</a></p>
+    <p><a href="../umat.html" class="unnamed1 style65"><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></strong> Interview<br>
+            <img src="images/spacer.gif" alt="sp" width="19" height="18" border="0">Training</a></p>
+  </div>
+  <nobr></nobr>
+    <div align="center"><span class="style62">..........................</span><br>
+    </div>
+</div>
+<p align="left" class="style16"><span class="style13">High School</span><span class="style63"> <br>
+S</span><span class="style1">UBJECTS</span> </p>
+<div align="left">
+  <p><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></strong><a href="../chemistry.html" class="unnamed1 style65"> Chemistry</a></p>
+  <p><strong><a href="../mathematics.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a><a href="../mathematics.html" class="unnamed1 style65"> Maths</a> </strong></p>
+  <p><strong><a href="../physics.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a><a href="../physics.html" class="unnamed1 style65"> Physics</a></strong></p>
+  <p><strong><a href="../biology.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a><a href="../biology.html" class="unnamed1 style65"> Biology </a></strong></p>
+</div>
+<div align="center"><span class="style62">..........................</span><br>
+</div>
+<p align="left" class="left"><span class="style16"><span class="style63"><span class="style13">Primary School</span> <br>
+  S</span><span class="style1">UBJECTS</span></span></p>
+<div align="left">
+  <p><strong><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></strong><strong><a href="../primary.html" class="unnamed1 style65"> Maths</a></strong></p>
+  <p><strong><a href="../mathematics.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a></strong><strong><a href="../primary.html" class="unnamed1 style65"> English</a></strong></p>
+  <p><strong><a href="../physics.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a> <a href="../primary.html" class="unnamed1 style65"> General Ability</a></strong></p>
+  <p><strong><a href="../biology.html"><img src="../images/tick.jpg" border="0" alt="tick" width="16" height="17" longdesc="../images/tick.jpg"></a><a href="../primary.html" class="unnamed1 style65"> Reading/Writing</a></strong></p>
+</div>
+<div align="left"></div>
+<div align="center"><span class="style62">..........................</span><br>
+</div>
+<p align="center" class="left">&nbsp;</p>
+<p align="center" class="left"><img src="../images/e01.gif" width="14" height="16" alt="e01" border="0" align="absmiddle">&nbsp;&nbsp;WEB LINKS</p>
+<p class="left">&nbsp;</p>
+<p class="left">&nbsp;<a href="http://www.boardofstudies.nsw.edu.au" class="style2" rel="nofollow">NSW Board of Studies</a></p>
+<p class="left">&nbsp;</p>
+<p class="left"><a href="http://hsc.csu.edu.au" class="style2" rel="nofollow">NSW HSC Online </a></p>
+<p class="left">&nbsp;</p>
+<p class="left"><a href="http://www.uac.edu.au/" class="style2" rel="nofollow">University Admissions Centre </a></p>
+<p class="left">&nbsp;</p>
+<div align="center"><span class="style62">..........................</span><br>
+</div>
+<p class="left">&nbsp;</p>
+<p align="center" class="style21">Einstein's Challenge </p>
+<p align="center">Are you smarter than 98% of the world's population? </p>
+<p align="center">Try this challenge to find out.</p>
+<p align="center">
+  <label>
+  <input name="Button" type="button" onClick="MM_goToURL('parent','/einstein.php');return document.MM_returnValue" value="Einstein's Challenge">
+  </label>
+  <br>
+  <span class="style20">CLICK HERE</span></p>
+<div align="center"><span class="style62">..........................</span><br>
+</div>
+<p align="center">&nbsp;</p>
+<p align="center"><a href="index.html#testimonials" class="style29">
+  <input name="Button2" type="button" class="style29" onClick="MM_goToURL('parent','testimonial.php');return document.MM_returnValue" value="'Testimonials'">
+</a><strong>&quot;Proven Results</strong>&quot;</p>
+<div align="center"><span class="style62">..........................</span><br>
+</div>
+<p align="center">&nbsp;</p>
+<p align="center"><a href="index.html#testimonials" class="style29">
+  <input name="Button22" type="button" class="style45" onClick="MM_goToURL('parent','/ib.php');return document.MM_returnValue" value="IB EXAM PLUS">
+</a><strong>International Baccalaureate Intense Exam Preperation</strong></p>
+<p align="center"><strong>Higher level &amp; Standard Level Chemistry </strong></p>
+<p align="center"></p>
+<div align="center">
+<p><br>
+  <br>
+	</p>
+</td>
+	<td rowspan="2">
+      <div align="left"><img src="../images/top01.gif" width="611" height="24" alt="" border="0"></div>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+  <td>&nbsp;</td>
+  <td colspan="2" align="left"><p style="color: #076BA7; font-size: 20px; margin-left: 0px;"><b>Contact Us </b></p>
+    <p align="justify" class="style1">The best way to contact Platinum Education Australia is to call and speak with the Head Tutor, or fill in the form below with your contact details and someone will be in touch with you within 24 hours.</p>
+    <p align="justify" class="style1">Platinum Education Australia is located in Hornsby, which is in the upper northshore area of Sydney.</p></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td width="45%" align="left"><p align="left" class="style1"><strong>Head Office</strong> <br>
+  <br>
+        Hornsby NSW 2077<br>
+        Telephone: (02) 9045 1300<br>
+        Fascimile: (02) 8212 5929 <br>
+    </p>
+    <p align="left" class="style1"><strong>Email:</strong> <a href="mailto:info@platinumeducation.com.au" class="style15">info@platinumeducation.com.au</a><br>
+    </p>
+    <p align="left" class="style1"><strong>Website: </strong><a href="http://www.platinumeducation.com.au" class="style15">www.platinumeducation.com.au</a></p></td>
+  <td width="53%" align="left"><div align="center"><iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.au/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=208191792653555104118.00049888a9f8672f31de6&amp;ll=-33.70376,151.098726&amp;spn=0.005355,0.006437&amp;z=16&amp;output=embed"></iframe><br />
+  </div></td>
+</tr>
+<tr>
+	<td width="2%">&nbsp;</td>
+	<td colspan="2" align="left">
+	
+	<form action="" method="post" onSubmit="MM_validateForm('firstname','','R','surname2','','R','suburb2','','R','home2','','RisNum');return document.MM_returnValue" >
+	  <input name="action" type="hidden" value="send">
+	  
+	  <p align="center" class="style1 style4"><strong><span class="style13">PLEASE FILL IN YOUR CONTACT DETAILS BELOW </span><br>
+     </strong></p>
+   <p align="center" class="style1 style4"><strong>Criteria marked with a <span class="style17">*</span> must be filled in <br>
+   </strong></p>
+   <table width="533" height="1549" border="0" align="center" cellpadding="0" cellspacing="0">
+     <tr>
+       <td width="220" height="49"><span class="style11">First Name<span class="style1 style4"><strong><span class="style17">*</span></strong></span> </span></td>
+       <td colspan="2"><input name="firstname" type="text" class="style12" id="firstname" value="" maxlength="20"></td>
+     </tr>
+     <tr>
+       <td height="46"><span class="style11">Surname<span class="style1 style4"><strong><span class="style17">*</span></strong></span> </span></td>
+       <td colspan="2"><input name="surname" type="text" class="style12" id="surname2" maxlength="20"></td>
+     </tr>
+     <tr>
+       <td height="43"><span class="style11">Street Number and Name </span></td>
+       <td colspan="2"><input name="streetnumberandaddress" type="text" class="style12" id="streetnumberandaddress2" maxlength="20"></td>
+     </tr>
+     <tr>
+       <td height="48"><span class="style11">Suburb<strong><span class="style17">*</span></strong></span></td>
+       <td colspan="2"><input name="suburb" type="text" class="style12" id="suburb2" maxlength="20"></td>
+     </tr>
+     <tr>
+       <td height="40"><span class="style11">Post Code </span><span class="style12">&nbsp;</span></td>
+       <td colspan="2"><input name="postcode" type="text" class="style12" id="postcode2" maxlength="4"></td>
+     </tr>
+     <tr>
+       <td height="43"><span class="style1"><span class="style11">Home Telephone<span class="style1 style4"><strong><span class="style17">*</span></strong></span></span></span></td>
+       <td colspan="2"><input name="hometelephone" type="text" class="style12" id="home2" maxlength="8"></td>
+     </tr>
+     <tr>
+       <td height="46"><span class="style11">Work Telephone</span></td>
+       <td colspan="2"><input name="work" type="text" class="style12" id="work2" maxlength="8"></td>
+     </tr>
+     <tr>
+       <td height="41"><span class="style11">Mobile</span></td>
+       <td colspan="2"><input name="mobile" type="text" class="style12" id="mobile2" maxlength="10"></td>
+     </tr>
+     <tr>
+       <td height="49"><span class="style11">Fax</span></td>
+       <td colspan="2"><input name="fax" type="text" class="style12" id="fax2" maxlength="8"></td>
+     </tr>
+     <tr>
+       <td height="50"><span class="style5"><span class="style12">Email Address</span></span></td>
+       <td colspan="2"><input name="email" type="text" class="style12" id="email2" maxlength="50"></td>
+     </tr>
+     <tr>
+       <td height="31" colspan="3"><img src="../images/line.gif" width="533" height="3" align="baseline"></td>
+     </tr>
+     <tr>
+       <td height="89"><span class="style11">What grade are you attending school?</span></td>
+       <td colspan="2"><select name="grade" size="3" class="style12" id="grade">
+           <option value="Year 12">Year 12 (HSC)</option>
+           <option value="Year 11">Year 11 (Preliminary)</option>
+           <option value="Year 10">Year 10</option>
+           <option value="Year 9">Year 9</option>
+           <option value="Year 8">Year 8</option>
+           <option value="Year 7">Year 7</option>
+           <option value="Year 6">Year 6</option>
+           <option value="Year 5">Year 5</option>
+           <option value="Year 4">Year 4</option>
+           <option value="year 3">Year 3</option>
+           <option value="Year 2">Year 2</option>
+           <option value="Year 1">Year 1</option>
+         </select>       </td>
+     </tr>
+     <tr>
+       <td height="22" colspan="3"><img src="../images/line.gif" width="533" height="3" align="baseline"></td>
+       </tr>
+     <tr>
+       <td height="89"><span class="style11">Which subject(s) are you <br>interested in for tutoring? </span></td>
+       <td colspan="2" valign="top"><p class="style11">
+         <br>
+         <input name="subject1" type="checkbox" id="subject1" value="Chemistry">
+         Chemistry<br>
+         <br>
+         <input name="subject2" type="checkbox" id="subject2" value="English">
+         English  <br>
+         <br>
+         <input name="subject3" type="checkbox" id="subject3" value="Mathematics">
+         Maths&nbsp;&nbsp;
+           <input name="level1" type="checkbox" id="level1" value="Ext 1">
+         Ext 1   
+         <input name="level2" type="checkbox" id="level2" value="Ext 2">
+         Ext 2<br>
+         <br>
+         <input name="subject4" type="checkbox" id="subject4" value="Physics">
+         Physics</p>
+         <p class="style11">
+           <label>
+           <input type="checkbox" name="General Ability" id="General Ability">
+           General Ability</label>
+           </p>
+         <p class="style11">
+           <label>
+           <input type="checkbox" name="Reading/Writing" id="Reading/Writing">
+           Reading/Writing</label>
+           <br>
+           </p></td>
+     </tr>
+     <tr>
+       <td height="28" colspan="3"><img src="../images/line.gif" width="533" height="3" align="baseline"></td>
+     </tr>
+     <tr>
+       <td height="177" class="style11">What type of tutoring are you looking for? </td>
+       <td colspan="2" align="left" valign="middle"><p><span class="style11">
+           <input name="type" type="radio" value="individual">
+        Individual<br>
+           </span><span class="style11"><br>
+           <input name="type" type="radio" value="Classes">
+        Classes<br>
+        <br>
+        <input name="type" type="radio" value="Both individual &amp; classes">
+        Both individual &amp; classes</span><br>
+       </p></td>
+     </tr>
+     <tr>
+       <td height="46" colspan="3"><img src="../images/line.gif" width="533" height="3" align="baseline"></td>
+     </tr>
+     <tr>
+       <td height="161" valign="middle"><span class="style11">When is the best time to contact you?</span></td>
+       <td width="154" valign="top" class="style11"><span class="style13">Day</span><br>
+           <br>
+           <input name="day1" type="checkbox" id="day1" value="Monday">
+      Monday<br>
+      <input name="day2" type="checkbox" id="day13" value="Tueasday">
+      Tuesday<br>
+      <input name="day3" type="checkbox" id="day14" value="Wednesday">
+      Wednesday<br>
+      <input name="day4" type="checkbox" id="day15" value="Thursday">
+      Thursday<br>
+      <input name="day5" type="checkbox" id="day16" value="Friday">
+      Friday<br>
+      <input name="day6" type="checkbox" id="day17" value="Saturday">
+      Saturday<br>
+      <input name="day7" type="checkbox" id="day18" value="Sunday">
+      Sunday<br>       </td>
+       <td width="159" valign="top"><span class="style16">Time</span><br>
+           <br>
+           <span class="style11">
+           <input name="time1" type="checkbox" id="day110" value="Morning">
+      Morning<br>
+      <input name="time2" type="checkbox" id="day111" value="Afternoon">
+      Afternoon<br>
+      <input name="time3" type="checkbox" id="day112" value="Evening">
+      Evening </span></td>
+     </tr>
+     <tr>
+       <td height="40" valign="middle">&nbsp;</td>
+       <td colspan="2" valign="top">&nbsp;</td>
+     </tr>
+     <tr>
+       <td height="28" colspan="3"><img src="../images/line.gif" width="533" height="3" align="baseline"></td>
+     </tr>
+     <tr>
+       <td height="205"><span class="style11">How did you hear about Platinum Education Australia?</span></td>
+       <td colspan="2"> <span class="style11"> </span><br>
+           <span class="style11">
+           <input name="ad1" type="checkbox" id="day114" value="Newspaper">
+      Newspaper </span> <br>
+      <span class="style11">
+      <input name="ad2" type="checkbox" id="day115" value="Yellow Pages">
+      Yellowpages<br>
+      <input name="ad3" type="checkbox" id="day116" value="Internet">
+      Internet<br>
+      <input name="ad4" type="checkbox" id="day117" value="A friend">
+      A friend <br>
+      <input name="ad5" type="checkbox" id="day118" value="A relative">
+      A relative<br>
+      <input name="ad6" type="checkbox" id="day119" value="Pamphlet">
+      Pamphlet<br>
+      <input name="ad7" type="checkbox" id="day120" value="Radio">
+      Radio<br>
+      <input name="ad8" type="checkbox" id="day121" value="Television">
+      Television</span></td>
+     </tr>
+     <tr>
+       <td height="84">&nbsp;</td>
+       <td colspan="2" valign="bottom">
+         <input name="Submit" type="submit" class="style12" value="Submit">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input name="reset" type="reset" class="style12" id="reset" value="Reset"></td>
+     </tr>
+   </table>
+   <p align="center" class="style1 style4">&nbsp;</p>
+    
+   <?php
+if(isset($_POST['action']) && $_POST['action'] == "send"){
+
+	$message = ""; 
+	$message .= $_POST['firstname'] ." ". $_POST['surname'] . " has filled in the enquiry form at "  . date("H:i") . " on " . date("m/d/Y") . "\n\n"; 
+	$message .= "First Name: " . $_POST['firstname'] . "\n"; 
+	$message .= "Surname: " . $_POST['surname'] . "\n"; 
+	$message .= "Address: " . $_POST['streetnumberandaddress'] . "\n"; 
+	$message .= "Suburb: " . $_POST['suburb'] . "\n"; 
+	$message .= "Postcode: " . $_POST['postcode'] . "\n";
+	$message .= "Home Number: " . $_POST['hometelephone'] . "\n";
+	$message .= "Work Number: " . $_POST['work'] . "\n";
+	$message .= "Mobile: " . $_POST['mobile'] . "\n";
+	$message .= "Fax: " . $_POST['fax'] . "\n";
+	$message .= "Email: " . $_POST['email'] . "\n";
+	$message .= "Grade at School: " . $_POST['grade'] . "\n";
+	$message .= "Subject for Tutoring: " . $_POST['subject1'] ." , " . $_POST['subject2']." , " . $_POST['subject3']." , ". $_POST['subject4'] ."\n"; 
+	$message .= "Level of Maths: " . $_POST['level1'] ." , ". $_POST['level2']."\n"; 
+	$message .= "Type of Tutoring: " . $_POST['type'] . "\n"; 
+	$message .= "Day to contact: " . $_POST['day1'] ." , ".$_POST['day2'] ." , ".$_POST['day3']." , ".$_POST['day4']." , ".$_POST['day5']." , ".$_POST['day6']." , ". $_POST['day7']. "\n"; 
+	$message .= "Time to contact: " . $_POST['time1'] ." , ".$_POST['time2']." , ".$_POST['time3']. "\n";
+	$message .= "How did they hear about us?: " . $_POST['ad1'] ." , ". $_POST['ad2']." , ". $_POST['ad3']." , ". $_POST['ad4']." , ". $_POST['ad5'] ." , ". $_POST['ad6']." , ". $_POST['ad7']." , ". $_POST['ad8'] . "\n";  
+	
+	$to = "info@platinumeducation.com.au"; 
+	$subject = "Enquiry Form"; 
+	$headers = "From: Platinum Education <php@platinumeducation.com.au>\r \n"; 
+	$headers .= "X-Priority: 1 \r \n"; 
+	$headers .= "X-MSMail-Priority: High"; 
+	
+	$result = mail($to,$subject,$message,$headers);
+	$url = 'http://www.platinumeducation.com.au/thankyou.html'; 
+echo '<META HTTP-EQUIV=Refresh CONTENT="0; URL='.$url.'">';
+
+} 
+
+?>
+   </form>   </td>
+</tr>
+</table>
+<div align="center"><img src="../images/hr01.gif" width="556" height="11" alt="" border="0"></div>
+    </td>
+</tr>
+<tr valign="bottom" bgcolor="#D0E0ED">
+	<td height="714"><img src="../images/bot_left.gif" width="183" height="21" alt="" border="0"></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="780" height="64" background="../images/fon_bot.gif">
+<tr valign="top">
+	<td>
+<table border="0" cellpadding="0" cellspacing="0" width="780" background="">
+<tr>
+	<td width="300"><p class="menu02">Copyright &copy; 2014 Platinum Education Australia | Sydney |</p></td>
+	<td>
+<p class="menu02">
+<a href="../index.html">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="../aboutus.html">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="../courses.html">Courses</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="../contactus.php">Contact Us </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="../university.html">University</a>&nbsp;&nbsp;&nbsp;| <a href="../invigilator.html"><strong>Invigilator</strong></a></p>	</td>
+</tr>
+</table>
+	</td>
+</tr>
+</table>
+<p align="center"></td>
+	<td valign="bottom" background="../images/bg_right.gif"><img src="../images/bg_right.gif" alt="" width="17" height="16" border="0"></td>
+	<td width="50%" background="../images/bg.gif"><img src="../images/px1.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+</table>
+
+
+<!--WEBSITECEO:BEGIN:{764EEF2E-BC11-45CF-8627-300CE1BA2219}-->
+<!--
+Do NOT modify this script to avoid traffic misrepresentation! 
+Web CEO 4 0300/1
+Code initially inserted into: "/contactus.php".
+-->
+<script type="text/javascript"><!--
+// hitlens v1.2.7
+function hitlens_embedded() {
+var id = 456727;
+var pc = 5;
+var PAGENAME = escape('');
+var CONTENTGROUP = escape('');
+var TRANSACTION = escape('');
+var TRANSACTION_ID = 0;
+var ORDER = escape('');
+return "id="+id+"&pc="+pc+"&p="+PAGENAME+"&gr="+CONTENTGROUP+"&tr="+TRANSACTION+"&trid="+TRANSACTION_ID+"&ord="+ORDER;
+}
+//--></script>
+<script type="text/javascript" src="/webceo.js"></script>
+<!--WEBSITECEO:END:{764EEF2E-BC11-45CF-8627-300CE1BA2219}-->
+
+
+</body>
+</html>

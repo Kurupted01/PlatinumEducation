@@ -1,0 +1,72 @@
+.style1 {font-size: 14px}
+.style3 {	font-size: 18px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.style2 {font-size: 12px}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style5 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+.style11 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 16px; }
+.style12 {font-size: 16px; font-family: Arial, Helvetica, sans-serif; }
+.style13 {font-size: 18px}
+.style15 {color: #0000CC}
+.style16 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; }
+.style17 {
+    font-size: 24px;
+    color: #CC0000;
+}
+.style20 {color: #0000CC;
+    font-weight: bold;
+}
+.style21 {font-size: 14;
+    font-weight: bold;
+    color: #0000FF;
+}
+.style25 {	font-size: 18px;
+    color: #FF3300;
+    font-style: italic;
+}
+.style26 {font-size: 18px; color: #FF3300; }
+.style29 {	font-size: 18px;
+    color: #FF3300;
+    text-decoration: none;
+}
+.style45 {	color: #FF0000;
+    font-size: 16px;
+}
+.style62 {	font-size: 24px;
+    font-weight: bold;
+}
+.style63 {font-size: 24px}
+.style65 {font-size: 16px}
+
+
+.modal-body {
+    position: relative;
+    overflow-y: auto;
+    max-height: 400px;
+    padding: 15px;
+}
+
+#freeSessionText {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#parentContainer{
+    position: relative;
+}
+.main_image, .overlay_image {
+    display: block;
+}
+.overlay_image {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 24%;
+}
